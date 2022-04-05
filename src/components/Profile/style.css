@@ -1,0 +1,30 @@
+ .profile_skills .skills .bar .parent {
+    height: 2px;
+    clear: both;
+    background: #f0eded;
+    position: relative;
+    top: 5px;
+}
+
+.profile_skills .skills .bar .parent span {
+    background: #eb5424;
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0
+}
+
+.profile_skills .skills .bar .parent span.sp1 {
+    width: 100%;
+}
+
+.profile_skills .skills .bar .parent span.sp2 {
+    width: 90%;
+}
+
+.profile_skills .skills .bar .parent span.sp3 {
+    width: 80%;
+}
+ 
+
